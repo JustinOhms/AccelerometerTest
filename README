@@ -1,3 +1,3 @@
 A simple OS X client to Otto Chrons' accelerometer-simulator class available at http://code.google.com/p/accelerometer-simulator
-It allows to to test apps that make use of accelerometer without ever using an actual device.
+It allows you to test apps that make use of accelerometer without ever using an actual device.
 Can be kinda useful when you're writing app like pinball.
